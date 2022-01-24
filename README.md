@@ -1,4 +1,4 @@
-# Clssial Tetris
+# Classial Tetris
 = Classic + Special Tetris
 
 [Code](https://github.com/bbx8216/Tetris/blob/main/Code_ClassialTetris.c) | [Presentation](https://github.com/bbx8216/Tetris/blob/main/Presentation_ClassialTetris.pptx) 
